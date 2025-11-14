@@ -94,6 +94,9 @@ def simetrica_secundaria(matriz: list[list]) -> bool:
 print(simetrica_secundaria(matrix))
 
 def capicua(matriz: list[list]) -> list[int]:
+    '''Comprueba si una columna de la matriz es capicua, igual del derecho que del reves.
+    Precondicion: matriz numerica
+    Poscondicion: devuelve una lista con los numeros que forman la columna capicua.'''
     filas = len(matriz)
     columnas = len(matriz[0])
     capicuas = []

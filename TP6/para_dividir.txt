@@ -1,0 +1,5 @@
+Linea 1: The cat is under the table
+Linea 2: Bomba,boma
+Linea 3: Usted no puede decir eso
+Linea 4: Mentira
+Linea 5: Libretad o nada
